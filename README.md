@@ -12,6 +12,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Triplet Recognition](#surgical-triplet-recognition)
   - [Surgical Tool Detection](#surgical-tool-detection)
   - [Segmentation](#segmentation)
+  - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
 
 ## Dataset
 
@@ -43,4 +44,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Surgical Tool Detection
 
 ### Segmentation
+
+### Surgical Scene Reconstruction
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/18ebd8a6-b6ed-42cf-aa2f-17d52a5f5616) | [Link](https://arxiv.org/pdf/2405.17835) | [Code](https://github.com/jinlab-imvr/Deform3DGS) | Vision |
+
 
