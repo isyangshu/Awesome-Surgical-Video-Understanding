@@ -29,11 +29,12 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | PSI-AVA| [Paper](https://arxiv.org/pdf/2212.04582)| [Link](https://github.com/BCV-Uniandes/TAPIR) | Prostatectomy Surgery | Surgical Phase/Step/Action/Instrument Recognition | Video-level |
 | AutoLaparo| [Paper](https://arxiv.org/pdf/2208.02049)| [Link](https://autolaparo.github.io/) | Hysterectomy Surgery | Surgical Phase Recognition / Motion Prediction | Video-level |
 | MultiBypass140| [Paper](https://arxiv.org/pdf/2312.11250)| [Link](https://github.com/CAMMA-public/MultiBypass140) | Laparoscopic Roux-en-Y Gastric Bypass Surgery | Surgical Phase/Step Recognition | Video-level |
+| SurgToolLoc22| [Paper](https://arxiv.org/pdf/2305.07152)| [Link](https://surgtoolloc23.grand-challenge.org/) |  DaVinci Robotic Surgery | Surgical Tool Recognition/Detection | Video-level |
 | SSG-VQA| [Paper](https://arxiv.org/pdf/2312.10251)| [Link](https://github.com/CAMMA-public/SSG-VQA) |Cholecystectomy Surgery | Visual Question Answering| Image-level |
 | EndoVis-18-VQA| [Paper](https://arxiv.org/pdf/2206.11053)| [Link](https://github.com/lalithjets/Surgical_VQA) |Robotic Nephrectomy Surgery | Visual Question Answering| Image-level |
 | Cholec80-VQA| [Paper](https://arxiv.org/pdf/2206.11053)| [Link](https://github.com/lalithjets/Surgical_VQA) |Cholecystectomy Surgery | Visual Question Answering| Image-level |
 | Endoscapes | [Paper](https://arxiv.org/pdf/2312.12429)| [Link](https://github.com/CAMMA-public/Endoscapes) |Cholecystectomy Surgery | Segmentation/Detection/CVS| Image-level |
-| StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci robotic | Surgical Scene Reconstruction |
+| StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
 
 ### Egocentric Open Surgery
