@@ -14,6 +14,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical_vqa)
+  - [Surgical Type Recognition](#surgical_type_recognition)
 
 ## Dataset
 
@@ -89,4 +90,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer (**MICCAI-22**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6c6fe2c8-bfb1-49a5-8c2a-6d0367053d39) | [Link](https://arxiv.org/pdf/2206.11053) | [Code](https://github.com/lalithjets/Surgical_VQA.git) | Vision-Language |
 | Advancing Surgical VQA with Scene Graph Knowledge (**IPCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/dfb6ca09-7316-44a6-b1df-1b721f97d894) | [Link](https://arxiv.org/pdf/2312.10251) | [Code](https://github.com/CAMMA-public/SSG-VQA) | Vision-Language |
+
+### Surgical Type Recognition
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
+
 
