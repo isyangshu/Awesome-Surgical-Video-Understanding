@@ -8,7 +8,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Egocentric Open Surgery](#egocentricopensurgery)
   - [Ophthalmic Surgery] ((#ophthalmicsurgery))
 - [Paper](#other-domains)
-  - [Surgical Phase/Step Recognition](#surgicalphaserecognition)
+  - [Surgical Phase Recognition](#surgicalphaserecognition)
   - [Surgical Triplet Recognition](#tripletrecognition)
   - [Surgical Tool Detection](#detection)
   - [Segmentation](#segmentation)
@@ -31,7 +31,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Arxiv 24.10.04|Mamba in Vision: A Comprehensive Survey of Techniques and Applications | [Link](https://arxiv.org/pdf/2410.03105) |
 
 ## Paper
-### Surgical Phase/Step Recognition
+### Surgical Phase Recognition
 
 | Paper | Surgery | Link | Code | Type |
 | :-------- | :---- | :-------- |
