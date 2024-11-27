@@ -35,7 +35,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
-| EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos |Egocentric Open Surgery | <img width="727" alt="image" src="https://github.com/user-attachments/assets/7c45a776-8c71-4d37-accf-08d6fcf9a936"> | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
+| EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos (MICCAI-24) |Egocentric Open Surgery | <img width="727" alt="image" src="https://github.com/user-attachments/assets/7c45a776-8c71-4d37-accf-08d6fcf9a936"> | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
 
 ### Surgical Triplet Recognition
 
