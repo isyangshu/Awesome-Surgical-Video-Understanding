@@ -4,6 +4,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Contents
 - [Dataset](#dataset)
   - [Endoscopic Surgery](#endoscopic-surgery)
+    - Public Dataset(#public-dataset)
+    - Private Dataset(#private-dataset)
   - [Egocentric Open Surgery](#egocentric-open-surgery)
   - [Ophthalmic Surgery](#ophthalmic-surgery)
 - [Paper](#paper)
@@ -19,6 +21,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Dataset
 
 ### Endoscopic Surgery
+
+#### Public Dataset
 
 | Dataset| Paper | Link | Procedure | Task | Type |
 | :-------- | :---- | :-------- | :-------- |  :-------- |  :-------- |
@@ -40,6 +44,13 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Endoscapes | [Paper](https://arxiv.org/pdf/2312.12429)| [Link](https://github.com/CAMMA-public/Endoscapes) |Cholecystectomy Surgery | Segmentation/Detection/CVS| Image-level |
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
+
+#### Private Dataset
+| Dataset| Paper | Procedure | Task | Type |
+| :-------- | :---- | :-------- |  :-------- |  :-------- |
+| Laparo425 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203)| Laparoscopic Surgery | Surgical Type Recognition | Video-level |
+| MultiCholec2022 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950359)| Cholecystectomy Surgery | Surgical Phase Recognition | Video-level |
+
 
 ### Egocentric Open Surgery
 | Dataset| Paper | Link | Type | Task |
