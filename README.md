@@ -24,7 +24,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 |M2CAI16-Tool| [Paper](https://arxiv.org/pdf/1602.03012)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Tool Recognition |
 | CholecT50| [Paper](https://arxiv.org/pdf/2109.03223)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Triplet Recognition |
 | MultiBypass140| [Paper](https://arxiv.org/pdf/2312.11250)| [Link](https://github.com/CAMMA-public/MultiBypass140) | Laparoscopic Roux-en-Y Gastric Bypass Surgery | Surgical Phase/Step Recognition |
-| SSG-VQA| [Paper](https://arxiv.org/pdf/2312.10251)| [Link](https://github.com/CAMMA-public/SSG-VQA) | Laparoscopic Surgery | Visual Question Answering|
+| SSG-VQA| [Paper](https://arxiv.org/pdf/2312.10251)| [Link](https://github.com/CAMMA-public/SSG-VQA) |Cholecystectomy Surgery | Visual Question Answering|
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci robotic | Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
 
