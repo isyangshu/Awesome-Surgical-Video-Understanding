@@ -66,6 +66,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/18ebd8a6-b6ed-42cf-aa2f-17d52a5f5616) | [Link](https://arxiv.org/pdf/2405.17835) | [Code](https://github.com/jinlab-imvr/Deform3DGS) | Vision |
 | Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6920425f-a7b7-4b60-8224-90a4714de1c9) | [Link](https://papers.miccai.org/miccai-2024/paper/1818_paper.pdf) | [Code](https://github.com/wrld/Free-SurGS) | Vision |
 | LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/4028ad49-ea1f-4d55-ba20-c5881bd9cd9f) | [Link](https://arxiv.org/pdf/2406.16073) | [Code](https://github.com/CUHK-AIM-Group/LGS) | Vision |
+| SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d47b5ccc-f9d1-4420-98bc-e9b39f1db594) | [Link](https://arxiv.org/pdf/2407.05023) | [Code](https://surgicalgaussian.github.io/) | Vision |
 
 
 
