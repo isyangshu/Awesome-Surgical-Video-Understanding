@@ -7,7 +7,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
     - [Cholecystectomy](#Cholecystectomy)
   - [Egocentric Open Surgery](#egocentricopensurgery)
   - [Ophthalmic Surgery] ((#ophthalmicsurgery))
-- [Paper](#other-domains)
+- [Paper](#paper)
   - [Surgical Phase Recognition](#surgicalphaserecognition)
   - [Surgical Triplet Recognition](#tripletrecognition)
   - [Surgical Tool Detection](#detection)
