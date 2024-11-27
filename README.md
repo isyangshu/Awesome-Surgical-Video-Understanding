@@ -6,7 +6,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Endoscopic Surgery](#endoscopicsurgery)
     - [Cholecystectomy](#Cholecystectomy)
   - [Egocentric Open Surgery](#egocentricopensurgery)
-  - [Ophthalmic Surgery] ((#ophthalmicsurgery))
+  - [Ophthalmic Surgery] (#ophthalmicsurgery)
 - [Paper](#paper)
   - [Surgical Phase Recognition](#surgicalphaserecognition)
   - [Surgical Triplet Recognition](#tripletrecognition)
