@@ -51,5 +51,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery (**MICCAI-22**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/f7ed9a07-3083-4840-8f02-213f793f3318) | [Link](https://arxiv.org/pdf/2206.15255)| [Code](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | Vision |
 | EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos (**MICCAI-23 Oral**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/22dabb83-4d3b-4310-8d16-8b78680fbe05) | [Link](https://arxiv.org/pdf/2307.11307) | [Code](https://github.com/Ruyi-Zha/endosurf) | Vision |
 | Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/18ebd8a6-b6ed-42cf-aa2f-17d52a5f5616) | [Link](https://arxiv.org/pdf/2405.17835) | [Code](https://github.com/jinlab-imvr/Deform3DGS) | Vision |
+| Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6920425f-a7b7-4b60-8224-90a4714de1c9) | [Link](https://papers.miccai.org/miccai-2024/paper/1818_paper.pdf) | [Code](https://github.com/wrld/Free-SurGS) | Vision |
+
 
 
