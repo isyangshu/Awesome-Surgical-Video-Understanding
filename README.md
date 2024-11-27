@@ -3,14 +3,14 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ## Contents
 - [Dataset](#dataset)
-  - [Endoscopic Surgery](#endoscopicsurgery)
-    - [Cholecystectomy](#Cholecystectomy)
-  - [Egocentric Open Surgery](#egocentricopensurgery)
-  - [Ophthalmic Surgery] (#ophthalmicsurgery)
+  - [Endoscopic Surgery](#endoscopic-surgery)
+    - [Cholecystectomy](#cholecystectomy)
+  - [Egocentric Open Surgery](#egocentric-open-surgery)
+  - [Ophthalmic Surgery] (#ophthalmic-surgery)
 - [Paper](#paper)
   - [Surgical Phase Recognition](#surgical-phase-recognition)
-  - [Surgical Triplet Recognition](#tripletrecognition)
-  - [Surgical Tool Detection](#detection)
+  - [Surgical Triplet Recognition](#surgical-triplet-recognition)
+  - [Surgical Tool Detection](#surgical-tool-detection)
   - [Segmentation](#segmentation)
 
 ## Dataset
