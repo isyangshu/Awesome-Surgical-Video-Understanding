@@ -4,8 +4,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Contents
 - [Dataset](#dataset)
   - [Endoscopic Surgery](#endoscopic-surgery)
-    - Public Dataset(#public-dataset)
-    - Private Dataset(#private-dataset)
+    - [Public Dataset](#public-dataset)
+    - [Private Dataset](#private-dataset)
   - [Egocentric Open Surgery](#egocentric-open-surgery)
   - [Ophthalmic Surgery](#ophthalmic-surgery)
 - [Paper](#paper)
