@@ -19,7 +19,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 #### Cholecystectomy
 | Dataset| Paper | Link | Type | Paper |
-| :-------- | :---- | :-------- |
+| :-------- | :---- | :-------- | :-------- |
 | Arxiv 24.04.15|State Space Model for New-Generation Network Alternative to Transformers: A Survey | [Link](https://arxiv.org/pdf/2404.09516) |
 | Arxiv 24.04.24|A Survey on Visual Mamba | [Link](https://arxiv.org/pdf/2404.15956v2) |
 | Arxiv 24.04.24|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges | [Link](https://arxiv.org/pdf/2404.16112) |
@@ -34,8 +34,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Surgical Phase Recognition
 
 | Paper | Surgery | Link | Code | Type |
-| :-------- | :---- | :-------- |
-| EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos |Egocentric Open Surgery | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) |
+| :-------- | :---- | :-------- | :-------- | :-------- |
+| EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos |Egocentric Open Surgery | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
 
 ### Surgical Triplet Recognition
 
