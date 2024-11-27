@@ -3,23 +3,20 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ## Contents
 - [Dataset](#dataset)
-  - [Image](#image)
-    - [Natural Image](#natural-image)
-    - [Remote Sensing Image](#remote-sensing-image)
-    - [Medical Image](#medical-image)
-  - [Video](#video)
-  - [Point Cloud](#point-cloud)
-  - [Multi-Modal](#multi-modal)
-  - [Others](#others)
+  - [Endoscopic Surgery](#endoscopicsurgery)
+    - [Cholecystectomy](#Cholecystectomy)
+  - [Egocentric Open Surgery](#egocentricopensurgery)
+  - [Ophthalmic Surgery] ((#ophthalmicsurgery))
 - [Task](#valuable-insights)
 - [Paper](#other-domains)
-  - [Reinforcement Learning](#reinforcement-learning)
+  - [Surgical Phase Recognition](#surgicalphaserecognition)
   - [Graph Learning](#graph-learning)
   - [Audio](#audio)
   - [Time Series](#time-series)
 
 ## Dataset
 
+### Endoscopic surgery
 | Date      | Paper | Link |
 | :-------- | :---- | :-------- |
 | Arxiv 24.04.15|State Space Model for New-Generation Network Alternative to Transformers: A Survey | [Link](https://arxiv.org/pdf/2404.09516) |
