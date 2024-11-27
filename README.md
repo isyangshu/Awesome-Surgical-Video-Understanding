@@ -27,6 +27,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | HeiChole| [Paper](https://arxiv.org/pdf/2109.14956#page=29.04)| [Link](https://www.synapse.org/Synapse:syn18824884/wiki/591922) | Cholecystectomy Surgery | Surgical Phase/Action/Instrument Recognition / Skill Assessment | Video-level |
 | Pit-Vis| [Paper](https://arxiv.org/pdf/2409.01184)| [Link](https://rdr.ucl.ac.uk/articles/dataset/PitVis_Challenge_Endoscopic_Pituitary_Surgery_videos/26531686) | Pituitary Surgery | Surgical Step/Instrument Recognition | Video-level |
 | PSI-AVA| [Paper](https://arxiv.org/pdf/2212.04582)| [Link](https://github.com/BCV-Uniandes/TAPIR) | Prostatectomy Surgery | Surgical Phase/Step/Action/Instrument Recognition | Video-level |
+| GraSP | [Paper](https://arxiv.org/pdf/2401.11174)| [Link](https://github.com/BCV-Uniandes/GraSP) | Prostatectomy Surgery | Surgical Phase/Step/Action/Instrument Recognition / Surgical Instrument Segmentation | Video-level |
 | AutoLaparo| [Paper](https://arxiv.org/pdf/2208.02049)| [Link](https://autolaparo.github.io/) | Hysterectomy Surgery | Surgical Phase Recognition / Motion Prediction | Video-level |
 | MultiBypass140| [Paper](https://arxiv.org/pdf/2312.11250)| [Link](https://github.com/CAMMA-public/MultiBypass140) | Laparoscopic Roux-en-Y Gastric Bypass Surgery | Surgical Phase/Step Recognition | Video-level |
 | SurgToolLoc22| [Paper](https://arxiv.org/pdf/2305.07152)| [Link](https://surgtoolloc23.grand-challenge.org/) |  DaVinci Robotic Surgery | Surgical Tool Recognition/Detection | Video-level |
