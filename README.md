@@ -47,6 +47,9 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/84640ba3-043b-4ca4-b1c0-24ee8f4e3598) | [Link](https://papers.miccai.org/miccai-2024/paper/1025_paper.pdf) |  | Vision-Language |
 
 ### Surgical Triplet Recognition
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Tail-Enhanced Representation Learning for Surgical Triplet Recognition | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/a43c5fed-a607-4b8f-92f1-a8d68397195b)| [Link](https://papers.miccai.org/miccai-2024/paper/0026_paper.pdf) | [Code](https://github.com/CIAM-Group/ComputerVision_Codes/tree/main/TERL) | Vision |
 
 ### Surgical Tool Detection
 | Paper | Surgery | Image | Link | Code | Type |
