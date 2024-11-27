@@ -13,6 +13,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Segmentation](#segmentation)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
+  - [Surgical VQA](#surgical_vqa)
 
 ## Dataset
 
@@ -80,3 +81,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | See, Predict, Plan: Diffusion for Procedure Planning in Robotic Surgical Videos (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/79d5788a-ac25-4fec-8102-068c3f4dc73e) | [Link](https://papers.miccai.org/miccai-2024/paper/2373_paper.pdf) | | Vision |
+
+### Surgical VQA
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer (**MICCAI-22**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6c6fe2c8-bfb1-49a5-8c2a-6d0367053d39) | [Link](https://arxiv.org/pdf/2206.11053) | [Code](https://github.com/lalithjets/Surgical_VQA.git) | Vision-Language |
+| Advancing Surgical VQA with Scene Graph Knowledge (**IPCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/dfb6ca09-7316-44a6-b1df-1b721f97d894) | [Link](https://arxiv.org/pdf/2312.10251) | [Code](https://github.com/CAMMA-public/SSG-VQA) | Vision-Language |
+
