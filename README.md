@@ -19,7 +19,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 | Dataset| Paper | Link | Type | Task |
 | :-------- | :---- | :-------- | :-------- |  :-------- |
-| EndoNeRF | [Link](https://arxiv.org/pdf/2206.15255)| [Code](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
+| StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci robotic | Surgical Scene Reconstruction |
+| EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
 
 ## Paper
 ### Surgical Phase Recognition
