@@ -19,6 +19,9 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 | Dataset| Paper | Link | Type | Task |
 | :-------- | :---- | :-------- | :-------- |  :-------- |
+| Cholec80 | [Paper](https://arxiv.org/pdf/1602.03012)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Phase Recognition |
+|M2CAI16-Workflow| [Paper](https://arxiv.org/pdf/1610.09278)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Phase Recognition |
+|M2CAI16-Tool| [Paper](https://arxiv.org/pdf/1602.03012)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Tool Recognition |
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci robotic | Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
 
