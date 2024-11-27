@@ -12,6 +12,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Tool Detection](#surgical-tool-detection)
   - [Segmentation](#segmentation)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
+  - [Surgical Video Generation](#surgical-video-generation)
 
 ## Dataset
 
@@ -68,5 +69,5 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/4028ad49-ea1f-4d55-ba20-c5881bd9cd9f) | [Link](https://arxiv.org/pdf/2406.16073) | [Code](https://github.com/CUHK-AIM-Group/LGS) | Vision |
 | SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d47b5ccc-f9d1-4420-98bc-e9b39f1db594) | [Link](https://arxiv.org/pdf/2407.05023) | [Code](https://surgicalgaussian.github.io/) | Vision |
 
-
-
+### Surgical Video Generation
+| See, Predict, Plan: Diffusion for Procedure Planning in Robotic Surgical Videos (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/79d5788a-ac25-4fec-8102-068c3f4dc73e) | [Link](https://papers.miccai.org/miccai-2024/paper/2373_paper.pdf) | | Vision |
