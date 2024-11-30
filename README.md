@@ -64,6 +64,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos (**TMI-16**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/5997553c-83e1-4da5-be34-63cf1fa8c4a1) | [Link](https://arxiv.org/pdf/1602.03012) | | Vision |
+| Multi-task recurrent convolutional network with correlation loss for surgical video analysis (**MIA-20**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/610b5e6c-ba61-4ba3-bb41-d342b8416185) | [Link](https://arxiv.org/pdf/1907.06099) | [Code](https://github.com/YuemingJin/MTRCNet-CL) | Vision |
 | Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases (**TMI-22**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/80934215-3edb-4d85-b714-5ae8c8f4a455) | [Link](https://arxiv.org/pdf/2203.07345) | | Vision |
 | Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition (**MICCAI-24**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/5f03c2d0-ede0-4ece-be2a-6203d6d15812) | [Link](https://arxiv.org/pdf/2408.03867) | [Code](https://github.com/isyangshu/Surgformer) | Vision |
 | EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos (**MICCAI-24**) |Egocentric Open Surgery | <img width="727" alt="image" src="https://github.com/user-attachments/assets/7c45a776-8c71-4d37-accf-08d6fcf9a936"> | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
