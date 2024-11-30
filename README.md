@@ -17,6 +17,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical_vqa)
   - [Surgical Type Recognition](#surgical_type_recognition)
+- [Comprehensive Journals](#comprehensive_journals)
 
 ## Dataset
 
@@ -119,4 +120,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
 
-
+## Comprehensive Journals
+| Paper | Journal | Image | Link | Code |
+| :-------- | :---- | :---- | :-------- | :-------- |
+| A vision transformer for decoding surgeon activity from surgical videos | Endoscopic Surgery | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
