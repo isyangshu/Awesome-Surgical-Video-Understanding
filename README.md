@@ -77,8 +77,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos (**MICCAI-24**) |Egocentric Open Surgery | <img width="727" alt="image" src="https://github.com/user-attachments/assets/7c45a776-8c71-4d37-accf-08d6fcf9a936"> | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
 | HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/84640ba3-043b-4ca4-b1c0-24ee8f4e3598) | [Link](https://papers.miccai.org/miccai-2024/paper/1025_paper.pdf) |  | Vision-Language |
 | Jumpstarting Surgical Computer Vision  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9a65de04-2669-498d-9f92-174b3d0b3c48) | [Link](https://papers.miccai.org/miccai-2024/paper/1998_paper.pdf) |  | Vision |
-| LoViT: Long Video Transformer for surgical phase recognition  (**MIA-25**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/951b8b2a-968b-435b-b650-1a2b2463f027)
- | [Link](https://www.sciencedirect.com/science/article/pii/S1361841524002913) | [Code](https://github.com/MRUIL/LoViT) | Vision |
+| LoViT: Long Video Transformer for surgical phase recognition  (**MIA-25**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/951b8b2a-968b-435b-b650-1a2b2463f027) | [Link](https://www.sciencedirect.com/science/article/pii/S1361841524002913) | [Code](https://github.com/MRUIL/LoViT) | Vision |
 
 ### Surgical Triplet Recognition
 | Paper | Surgery | Image | Link | Code | Type |
