@@ -17,6 +17,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical_vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
+  - [Surgical Pretraining](#surgical-pretraining)
 - [Comprehensive Journals](#comprehensive-journals)
 
 ## Dataset
@@ -122,6 +123,11 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
+
+### Surgical Pretraining
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) | Vision |
 
 ## Comprehensive Journals
 | Paper | Journal | Image | Link | Code |
