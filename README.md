@@ -93,6 +93,9 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/1519bb1a-4eb3-4246-960e-6d74c66e67bf) | [Link](https://arxiv.org/pdf/2406.03095) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
 
 ### Segmentation
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Image Compositing for Segmentation of Surgical Tools without Manual Annotations (**TMI-21**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/c40945f5-fd05-4295-8843-12d914394df0) | [Link](https://arxiv.org/pdf/2102.09528) | [Code](https://github.com/luiscarlosgph/semi-synthetic) | Vision |
 
 ### Surgical Scene Reconstruction
 | Paper | Surgery | Image | Link | Code | Type |
@@ -123,4 +126,5 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Comprehensive Journals
 | Paper | Journal | Image | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- |
-| A vision transformer for decoding surgeon activity from surgical videos | Nature Biomedical Engineering | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
+| A vision transformer for decoding surgeon activity from surgical videos (Dani Kiyasseh et al.) | Nature Biomedical Engineering | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
+
