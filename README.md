@@ -16,8 +16,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical_vqa)
-  - [Surgical Type Recognition](#surgical_type_recognition)
-- [Comprehensive Journals](#comprehensive_journals)
+  - [Surgical Type Recognition](#surgical-type-recognition)
+- [Comprehensive Journals](#comprehensive-journals)
 
 ## Dataset
 
