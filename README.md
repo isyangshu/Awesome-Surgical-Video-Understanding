@@ -123,4 +123,4 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Comprehensive Journals
 | Paper | Journal | Image | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- |
-| A vision transformer for decoding surgeon activity from surgical videos | Endoscopic Surgery | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
+| A vision transformer for decoding surgeon activity from surgical videos | Nature Biomedical Engineering | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
