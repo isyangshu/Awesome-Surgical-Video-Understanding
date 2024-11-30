@@ -126,5 +126,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Comprehensive Journals
 | Paper | Journal | Image | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- |
-| A vision transformer for decoding surgeon activity from surgical videos (Dani Kiyasseh et al.) | Nature Biomedical Engineering | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
+| A vision transformer for decoding surgeon activity from surgical videos (Dani Kiyasseh et al.) | Nature Biomedical Engineering 2023 | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
+| Human visual explanations mitigate bias in AI-based assessment of surgeon skills (Dani Kiyasseh et al.) | npj Digital Medicine 2023 | ![image](https://github.com/user-attachments/assets/fc872ded-3e20-47d8-b01e-cec80f232ff4) | [Link](https://www.nature.com/articles/s41746-023-00766-2) | [Code](https://github.com/danikiyasseh/TWIX)|
+
 
