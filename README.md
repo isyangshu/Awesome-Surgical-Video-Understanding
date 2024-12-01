@@ -82,6 +82,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Jumpstarting Surgical Computer Vision  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9a65de04-2669-498d-9f92-174b3d0b3c48) | [Link](https://papers.miccai.org/miccai-2024/paper/1998_paper.pdf) |  | Vision |
 | LoViT: Long Video Transformer for surgical phase recognition  (**MIA-25**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/951b8b2a-968b-435b-b650-1a2b2463f027) | [Link](https://www.sciencedirect.com/science/article/pii/S1361841524002913) | [Code](https://github.com/MRUIL/LoViT) | Vision |
 | Surgical Video Workflow Analysis via Visual-Language Learning  (**npj-under review**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/e5407ed5-e697-4edd-89d4-4a0d0976d7c5) | [Link](https://www.researchsquare.com/article/rs-5205336/v1) | [Code](https://github.com/halamadrid-lpp/Surgical-video-workflow-analysis-I2TM) | Vision-Language |
+| Neural Finite-State Machines for Surgical Phase Recognition | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d9aef4f3-43de-42b2-97c6-e19e97687e55) | [Link](https://www.arxiv.org/pdf/2411.18018) | | Vision |
 
 ### Surgical Triplet Recognition
 | Paper | Surgery | Image | Link | Code | Type |
