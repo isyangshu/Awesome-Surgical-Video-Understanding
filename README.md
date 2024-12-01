@@ -128,6 +128,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Surgical Pretraining
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | | Vision-Language |
 | OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) | Vision-Language |
 
 ## Comprehensive Journals
