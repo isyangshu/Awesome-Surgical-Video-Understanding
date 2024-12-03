@@ -29,6 +29,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Dataset| Paper | Link | Procedure | Task | Type |
 | :-------- | :---- | :-------- | :-------- |  :-------- |  :-------- |
 | Cholec80 | [Paper](https://arxiv.org/pdf/1602.03012)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Phase Recognition | Video-level |
+| Cholec80-CSV | [Paper](https://www.nature.com/articles/s41597-023-02073-7)| [Link](https://github.com/ManuelRios18/CHOLEC80-CVS-PUBLIC) | Cholecystectomy Surgery | Critical View of Safety (CVS) | Video-level |
 |M2CAI16-Workflow| [Paper](https://arxiv.org/pdf/1610.09278)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Phase Recognition | Video-level |
 |M2CAI16-Tool| [Paper](https://arxiv.org/pdf/1602.03012)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Tool Recognition | Video-level |
 | CholecT50| [Paper](https://arxiv.org/pdf/2109.03223)| [Link](https://camma.unistra.fr/datasets/) | Cholecystectomy Surgery | Surgical Triplet Recognition | Video-level |
