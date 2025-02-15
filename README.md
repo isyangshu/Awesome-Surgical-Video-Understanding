@@ -54,6 +54,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Laparo425 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203)| Laparoscopic Surgery | Surgical Type Recognition | Video-level |
 | MultiCholec2022 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950359)| Cholecystectomy Surgery | Surgical Phase Recognition | Video-level |
 | Laparo23.3M | [Paper](https://arxiv.org/pdf/2308.12394)| Laparoscopic Surgery | - | Video-level |
+|ESD385| [Paper](https://arxiv.org/pdf/2409.12108v1)| Endoscopic Submucosal Dissection | Surgical Phase Recognition | Video-level|
 
 
 ### Egocentric Open Surgery
@@ -81,6 +82,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos (**MICCAI-24**) |Egocentric Open Surgery | <img width="727" alt="image" src="https://github.com/user-attachments/assets/7c45a776-8c71-4d37-accf-08d6fcf9a936"> | [Link](https://www.arxiv.org/pdf/2405.19644) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
 | HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/84640ba3-043b-4ca4-b1c0-24ee8f4e3598) | [Link](https://papers.miccai.org/miccai-2024/paper/1025_paper.pdf) |  | Vision-Language |
 | Jumpstarting Surgical Computer Vision  (**MICCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9a65de04-2669-498d-9f92-174b3d0b3c48) | [Link](https://papers.miccai.org/miccai-2024/paper/1998_paper.pdf) |  | Vision |
+| SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba | Endoscopic Surgery | <img width="838" alt="image" src="https://github.com/user-attachments/assets/b325ffa9-04a8-4d65-b602-85b82fbe1b6c" /> | [Link](https://arxiv.org/pdf/2409.12108v1) | | Vision |
 | SR-Mamba: Effective Surgical Phase Recognition with State Space Model | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/f0bd8285-472e-4d89-8329-44f9ac3ee8b9) | [Link](https://arxiv.org/pdf/2407.08333) | [Code](https://github.com/rcao-hk/SR-Mamba) | Vision |
 | LoViT: Long Video Transformer for surgical phase recognition  (**MIA-25**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/951b8b2a-968b-435b-b650-1a2b2463f027) | [Link](https://www.sciencedirect.com/science/article/pii/S1361841524002913) | [Code](https://github.com/MRUIL/LoViT) | Vision |
 | Surgical Video Workflow Analysis via Visual-Language Learning  (**npj-under review**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/e5407ed5-e697-4edd-89d4-4a0d0976d7c5) | [Link](https://www.researchsquare.com/article/rs-5205336/v1) | [Code](https://github.com/halamadrid-lpp/Surgical-video-workflow-analysis-I2TM) | Vision-Language |
