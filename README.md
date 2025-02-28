@@ -5,6 +5,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ## Contents
 - [Dataset](#dataset)
+  - [Endoscopy](#endoscopy)
+    - [Public Dataset](#public-dataset)
   - [Endoscopic Surgery](#endoscopic-surgery)
     - [Public Dataset](#public-dataset)
     - [Private Dataset](#private-dataset)
@@ -26,6 +28,13 @@ There are compilations of surgery-related tasks, datasets, and papers.
 - [Comprehensive Journals](#comprehensive-journals)
 
 ## Dataset
+
+### Endoscopy
+
+#### Public Dataset
+| Dataset| Paper | Link | Procedure | Task | Type |
+| :-------- | :---- | :-------- | :-------- |  :-------- |  :-------- |
+| Kvasir-VQA | [Paper](https://arxiv.org/pdf/2409.01437)| [Link](https://datasets.simula.no/kvasir-vqa) | GI Endoscopy | Visual Question Answering| Image-level |
 
 ### Endoscopic Surgery
 
