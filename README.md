@@ -147,6 +147,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos | GI Endoscopy | Image-level | 61M Images (3,927 clips) | DINOv2 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-73290-4_20) | |
 | EndoDINO: A Foundation Model for GI Endoscopy | GI Endoscopy | Image-level | 10M Images (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
 | EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training | GI + Laparoscope + Bronchoscopy | Video-level| 11M Images (74,828 clips) | EndoMamba | [Link](https://arxiv.org/pdf/2502.19090) | |
+|Improving Foundation Model for Endoscopy Video Analysis via Representation Learning on Long Sequences| GI Endoscopy | Video-level | 13M Images (6469 clips) | EndoFM-VL | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10885043) | [Code](https://github.com/med-air/EndoFM-LV)|
 
 
 ### Vision-Language Pretraining
