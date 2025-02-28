@@ -1,5 +1,6 @@
 # Awesome-Surgical-Video-Understanding
 There are compilations of surgery-related tasks, datasets, and papers.
+``Pretraining Part`` includes all endoscopic methods, whether related to surgery or examination.
 
 ## Contents
 - [Dataset](#dataset)
@@ -17,7 +18,6 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical_vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
-  - [Surgical Pretraining](#surgical-pretraining)
 - [Pretraining](#pretraining)
   - [Vision Pretraining](#vision-pretraining)
   - [Vision-language Pretraining](#vision-language-pretraining)
