@@ -142,7 +142,11 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Vision Pretraining
 | Paper | Type | Level | Number| Method | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |:-------- |
-| EndoDINO | GI Endoscopy | Image-level | 10M Images (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
+| Foundation Model for Endoscopy Video Analysis via Large-Scale Self-supervised Pre-train | GI Endoscopy (little laparoscope) | Video-level | 5M Images (32,896 clips) | Endo-FM | [Link](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10) | [Code](https://github.com/med-air/Endo-FM) |
+| Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos | GI Endoscopy | Image-level | 61M Images (3,927 clips) | DINOv2 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-73290-4_20) | |
+| EndoDINO: A Foundation Model for GI Endoscopy | GI Endoscopy | Image-level | 10M Images (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
+
+
 ### Vision-Language Pretraining
 ### LLM-based VLM
 | Paper | Surgery | Image | Link | Code | Type |
