@@ -18,6 +18,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical VQA](#surgical_vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
   - [Surgical Pretraining](#surgical-pretraining)
+- [Pretraining](#pretraining)
+  - [Vision Pretraining](#vision-pretraining)
+  - [Vision-language Pretraining](#vision-language-pretraining)
+  - [LLM-based VLM](#llm-based-vlm)
 - [Comprehensive Journals](#comprehensive-journals)
 
 ## Dataset
@@ -133,7 +137,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
 
-### Surgical Pretraining
+## Pretraining
+### Vision Pretraining
+### Vision-Language Pretraining
+### LLM-based VLM
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | | Vision-Language |
