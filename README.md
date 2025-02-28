@@ -143,11 +143,12 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Type | Level | Number| Method | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |:-------- |
 | Unsupervised Segmentation of Colonoscopy Images | Colonoscope | Image-level | 525,711 (5,145 clips) | DINOv1 | [Link](https://arxiv.org/pdf/2312.12599) | |
-| Foundation Model for Endoscopy Video Analysis via Large-Scale Self-supervised Pre-train | GI Endoscopy (little laparoscope) | Video-level | 5M Images (32,896 clips) | Endo-FM | [Link](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10) | [Code](https://github.com/med-air/Endo-FM) |
-| Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos | GI Endoscopy | Image-level | 61M Images (3,927 clips) | DINOv2 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-73290-4_20) | |
-| EndoDINO: A Foundation Model for GI Endoscopy | GI Endoscopy | Image-level | 10M Images (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
-| EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training | GI + Laparoscope + Bronchoscopy | Video-level| 11M Images (74,828 clips) | EndoMamba | [Link](https://arxiv.org/pdf/2502.19090) | |
-|Improving Foundation Model for Endoscopy Video Analysis via Representation Learning on Long Sequences| GI Endoscopy | Video-level | 13M Images (6469 clips) | EndoFM-VL | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10885043) | [Code](https://github.com/med-air/EndoFM-LV)|
+| Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos | GI Endoscopy | Image-level | 61M (3,927 clips) | DINOv2 | [Link](https://link.springer.com/chapter/10.1007/978-3-031-73290-4_20) | |
+| Foundation Model for Endoscopy Video Analysis via Large-Scale Self-supervised Pre-train | GI Endoscopy (little laparoscope) | Video-level | 5M (32,896 clips) | Endo-FM | [Link](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10) | [Code](https://github.com/med-air/Endo-FM) |
+| Self-Supervised Learning for Endoscopy Video Analysis | Colonoscope | Image-level | 2.2M (13,979 clips) | MSN | [Link](https://arxiv.org/pdf/2308.12394) | [Code](https://github.com/RoyHirsch/endossl)|
+| EndoDINO: A Foundation Model for GI Endoscopy | GI Endoscopy | Image-level | 10M (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
+| EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training | GI + Laparoscope + Bronchoscopy | Video-level| 11M (74,828 clips) | EndoMamba | [Link](https://arxiv.org/pdf/2502.19090) | Colonoscope | Image-level | 2.2M 
+|Improving Foundation Model for Endoscopy Video Analysis via Representation Learning on Long Sequences| GI Endoscopy | Video-level | 13M (6469 clips) | EndoFM-VL | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10885043) | [Code](https://github.com/med-air/EndoFM-LV)|
 
 
 ### Vision-Language Pretraining
