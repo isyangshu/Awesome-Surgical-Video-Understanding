@@ -140,6 +140,9 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ## Pretraining
 ### Vision Pretraining
+| Paper | Type | Level | Number| Method | Link | Code |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |:-------- |
+| EndoDINO | GI Endoscopy | Image-level | 10M Images (130,037 clips) | DINOv2 | [Link](https://arxiv.org/pdf/2501.05488) | |
 ### Vision-Language Pretraining
 ### LLM-based VLM
 | Paper | Surgery | Image | Link | Code | Type |
