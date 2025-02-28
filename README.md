@@ -87,8 +87,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | LoViT: Long Video Transformer for surgical phase recognition  (**MIA-25**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/951b8b2a-968b-435b-b650-1a2b2463f027) | [Link](https://www.sciencedirect.com/science/article/pii/S1361841524002913) | [Code](https://github.com/MRUIL/LoViT) | Vision |
 | Surgical Video Workflow Analysis via Visual-Language Learning  (**npj-under review**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/e5407ed5-e697-4edd-89d4-4a0d0976d7c5) | [Link](https://www.researchsquare.com/article/rs-5205336/v1) | [Code](https://github.com/halamadrid-lpp/Surgical-video-workflow-analysis-I2TM) | Vision-Language |
 | Neural Finite-State Machines for Surgical Phase Recognition | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d9aef4f3-43de-42b2-97c6-e19e97687e55) | [Link](https://www.arxiv.org/pdf/2411.18018) | | Vision |
-| SWAG: Long-term Surgical Workflow Prediction with Generative-based Anticipation | <img width="838" alt="image" src="https://github.com/user-attachments/assets/cd52bc9c-fd5c-4831-acba-ee3298f2359a" /> | [Link](https://arxiv.org/pdf/2412.18849) | [Code](https://maxboels.github.io/swag) | Vision |
-| Benchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy | <img width="1062" alt="image" src="https://github.com/user-attachments/assets/53efa181-93c2-49af-b89e-61f6f6b278dc" /> | [Link](https://arxiv.org/pdf/2412.04039) | | Vision |
+| SWAG: Long-term Surgical Workflow Prediction with Generative-based Anticipation | | <img width="838" alt="image" src="https://github.com/user-attachments/assets/cd52bc9c-fd5c-4831-acba-ee3298f2359a" /> | [Link](https://arxiv.org/pdf/2412.18849) | [Code](https://maxboels.github.io/swag) | Vision |
+| Benchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy | | <img width="1062" alt="image" src="https://github.com/user-attachments/assets/53efa181-93c2-49af-b89e-61f6f6b278dc" /> | [Link](https://arxiv.org/pdf/2412.04039) | | Vision |
 
 
 
