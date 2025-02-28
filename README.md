@@ -8,7 +8,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
     - [Private Dataset](#private-dataset)
   - [Egocentric Open Surgery](#egocentric-open-surgery)
   - [Ophthalmic Surgery](#ophthalmic-surgery)
-- [Paper](#paper)
+- [Specific Task](#specific-task)
   - [Surgical Phase Recognition](#surgical-phase-recognition)
   - [Surgical Triplet Recognition](#surgical-triplet-recognition)
   - [Surgical Tool Detection](#surgical-tool-detection)
