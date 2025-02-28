@@ -163,6 +163,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 #### Endoscopic Surgery
 | Paper | Type | Level | Number | Method | Link | Code |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |:-------- |
+| Dissecting Self-Supervised Learning Methods for Surgical Computer Vision | Cholec80 | Image-level | 9.8k | DINO/MoCo v2/SimCLR/SwAV | [Link](https://arxiv.org/pdf/2207.00449) | [Code](https://github.com/CAMMA-public/SelfSupSurg) | 
 | EndoViT: pretraining vision transformers on a large collection of endoscopic images | Laparoscopic Procedures | Image-level | 700k | MAE | [Link](https://link.springer.com/article/10.1007/s11548-024-03091-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240403&utm_content=10.1007/s11548-024-03091-5) | [Code](https://github.com/DominikBatic/EndoViT/tree/main?tab=readme-ov-file) |
  | Self-Supervised Learning for Endoscopic Video Analysis | Laparoscopic Procedures | Image-level | 23M (7,877 clips) | MSN | [Link](https://arxiv.org/pdf/2308.12394) | [Code](https://github.com/RoyHirsch/endossl) |
 
