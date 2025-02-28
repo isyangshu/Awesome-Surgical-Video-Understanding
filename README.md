@@ -63,7 +63,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EgoSurgery-Tool | [Paper](https://arxiv.org/pdf/2406.03095)| [Link](https://github.com/Fujiry0/EgoSurgery) | Distinct Surgical Procedures | Surgical Tool/Hand Detection |
 | EgoSurgery-Phase | [Paper](https://www.arxiv.org/pdf/2405.19644) | [Link](https://github.com/Fujiry0/EgoSurgery)  | Distinct Surgical Procedures | Surgical Phase Recognition |
 
-## Paper
+## Specific Task
 ### Surgical Phase Recognition
 
 | Paper | Surgery | Image | Link | Code | Type |
