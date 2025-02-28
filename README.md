@@ -32,7 +32,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Endoscopy
 
 #### Public Dataset
-| Dataset| Paper | Link | Procedure | Task | Type |
+| Dataset| Paper | Link | Data Type | Task | Type |
 | :-------- | :---- | :-------- | :-------- |  :-------- |  :-------- |
 | Kvasir-VQA | [Paper](https://arxiv.org/pdf/2409.01437)| [Link](https://datasets.simula.no/kvasir-vqa) | GI Endoscopy + Surgery | Visual Question Answering| Image-level |
 
