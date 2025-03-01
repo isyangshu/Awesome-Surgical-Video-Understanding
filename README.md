@@ -171,12 +171,18 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 
 ### Vision-Language Pretraining
+
+| Paper | Type | Level | Number | Image | Link | Code | 
+| :-------- | :---- | :---- | :---- | :-------- | :-------- | :-------- |
+| OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | Video-level | 44,290 Clips / 960M Images / 375K Pairs | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) |
+
 ### LLM-based VLM
-| Paper | Surgery | Image | Link | Code | Type |
-| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Paper | Type | Level| Number| Image | Link | Code |
+| :-------- | :---- | :---- | :---- | :-------- | :-------- | :-------- |
 | LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | | Vision-Language |
 | Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | | Vision-Language |
-| OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) | Vision-Language |
+| EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery |  Endoscopic Surgery | Image-level | 41K images / 396K instruction-following annotation | <img width="728" alt="image" src="https://github.com/user-attachments/assets/6ed376d9-6027-4896-873d-a5dc64b0f5b9" /> |[Link](https://arxiv.org/pdf/2501.11347)| |
+
 
 ## Comprehensive Journals
 | Paper | Journal | Image | Link | Code |
