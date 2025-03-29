@@ -27,6 +27,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Vision-language Pretraining](#vision-language-pretraining)
   - [LLM-based VLM](#llm-based-vlm)
 - [Comprehensive Journals](#comprehensive-journals)
+- [Survey](#survey)
 
 ## Dataset
 
@@ -82,6 +83,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ### Surgical Scene Understanding
 | Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Towards Holistic Surgical Scene Understanding (MICCAI-22) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/2fc78165-9c69-402d-9426-e0bda08c330f)| [Link](https://arxiv.org/pdf/2212.04582) | [Code](https://github.com/BCV-Uniandes/TAPIR) | Vision |
 | Pixel-Wise Recognition for Holistic Surgical Scene Understanding | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/ebd91cf7-918f-4ba9-88ed-76f7e6333d81) | [Link](https://arxiv.org/pdf/2401.11174) | [Code](https://github.com/BCV-Uniandes/GraSP) | Vision |
 | Hierarchical Context Transformer for Multi-level Semantic Scene Understanding (TCSVT) | Endoscopic Surgery |<img width="1103" alt="image" src="https://github.com/user-attachments/assets/b08654f0-ea39-484c-ae48-7208de3df9ae" /> | [Link](https://arxiv.org/pdf/2502.15184) | [Code](https://github.com/Aurorahao/HCT) | Vision |
@@ -209,4 +211,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | A vision transformer for decoding surgeon activity from surgical videos (Dani Kiyasseh et al.) | Nature Biomedical Engineering 2023 | <img width="652" alt="image" src="https://github.com/user-attachments/assets/b1454abc-e92b-4418-be67-850c5fe50ef7"> | [Link](https://www.nature.com/articles/s41551-023-01010-8) | [Code](https://github.com/danikiyasseh/SAIS)|
 | Human visual explanations mitigate bias in AI-based assessment of surgeon skills (Dani Kiyasseh et al.) | npj Digital Medicine 2023 | ![image](https://github.com/user-attachments/assets/fc872ded-3e20-47d8-b01e-cec80f232ff4) | [Link](https://www.nature.com/articles/s41746-023-00766-2) | [Code](https://github.com/danikiyasseh/TWIX)|
 
-
+## Survey
+| Paper | Journal | Link |
+| :-------- | :---- | :---- |
+|Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review| | [Link](https://arxiv.org/pdf/2502.14886)|
