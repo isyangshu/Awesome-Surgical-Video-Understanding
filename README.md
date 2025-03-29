@@ -64,6 +64,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Endoscapes | [Paper](https://arxiv.org/pdf/2312.12429)| [Link](https://github.com/CAMMA-public/Endoscapes) |Cholecystectomy Surgery | Segmentation/Detection/CVS| Image-level |
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
+| TEMSET-24K | [Paper](https://arxiv.org/pdf/2502.06708)| [Link](https://zenodo.org/records/14016844) | - | Surgical Action/Task/Phase Reconstruction |
 
 #### Private Dataset
 | Dataset| Paper | Procedure | Task | Type |
