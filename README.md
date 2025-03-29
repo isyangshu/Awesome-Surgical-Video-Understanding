@@ -13,6 +13,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Egocentric Open Surgery](#egocentric-open-surgery)
   - [Ophthalmic Surgery](#ophthalmic-surgery)
 - [Specific Task](#specific-task)
+  - [Surgical Scene Understanding](#surgical-scene-understanding)
   - [Surgical Phase Recognition](#surgical-phase-recognition)
   - [Surgical Triplet Recognition](#surgical-triplet-recognition)
   - [Surgical Tool Detection](#surgical-tool-detection)
@@ -78,6 +79,14 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EgoSurgery-Phase | [Paper](https://www.arxiv.org/pdf/2405.19644) | [Link](https://github.com/Fujiry0/EgoSurgery)  | Distinct Surgical Procedures | Surgical Phase Recognition |
 
 ## Specific Task
+
+### Surgical Scene Understanding
+| Paper | Surgery | Image | Link | Code | Type |
+| Towards Holistic Surgical Scene Understanding (MICCAI-22) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/2fc78165-9c69-402d-9426-e0bda08c330f)| [Link](https://arxiv.org/pdf/2212.04582) | [Code](https://github.com/BCV-Uniandes/TAPIR) | Vision |
+| Pixel-Wise Recognition for Holistic Surgical Scene Understanding | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/ebd91cf7-918f-4ba9-88ed-76f7e6333d81) | [Link](https://arxiv.org/pdf/2401.11174) | [Code](https://github.com/BCV-Uniandes/GraSP) | Vision |
+| Hierarchical Context Transformer for Multi-level Semantic Scene Understanding (TCSVT) | Endoscopic Surgery |<img width="1103" alt="image" src="https://github.com/user-attachments/assets/b08654f0-ea39-484c-ae48-7208de3df9ae" /> | [Link](https://arxiv.org/pdf/2502.15184) | [Code](https://github.com/Aurorahao/HCT) | Vision |
+
+
 ### Surgical Phase Recognition
 
 | Paper | Surgery | Image | Link | Code | Type |
