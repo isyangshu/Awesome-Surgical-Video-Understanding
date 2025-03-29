@@ -20,7 +20,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Segmentation](#segmentation)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
-  - [Surgical VQA](#surgical_vqa)
+  - [Surgical VQA](#surgical-vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
 - [Pretraining](#pretraining)
   - [Vision Pretraining](#vision-pretraining)
