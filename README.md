@@ -208,7 +208,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 
 ### Others
 | Paper | Type | Image | Link | Code |
-| :-------- | :---- | :---- | :---- | :-------- | :-------- | :-------- |
+| :-------- | :---- | :---- | :---- | :-------- |
 | Multi-view Video-Pose Pretraining for Operating Room Surgical Activity Recognition | Multi-view Camera | ![image](https://github.com/user-attachments/assets/a883296d-f38b-4754-a8c4-db341b94ed23) | [Link](https://arxiv.org/pdf/2502.13883) | [Code](https://github.com/CAMMA-public/PreViPS) |
 
 
