@@ -72,6 +72,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | MultiCholec2022 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950359)| Cholecystectomy Surgery | Surgical Phase Recognition | Video-level |
 | Laparo23.3M | [Paper](https://arxiv.org/pdf/2308.12394)| Laparoscopic Surgery | - | Video-level |
 |ESD385| [Paper](https://arxiv.org/pdf/2409.12108v1)| Endoscopic Submucosal Dissection | Surgical Phase Recognition | Video-level|
+| ACL27 | [Paper](https://arxiv.org/pdf/2502.07431)| Arthroscopic Surgery | Surgical Phase Recognition | Video-level |
 
 
 ### Egocentric Open Surgery
