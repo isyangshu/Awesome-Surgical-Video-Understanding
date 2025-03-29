@@ -168,6 +168,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
  | Self-Supervised Learning for Endoscopic Video Analysis | Laparoscopic Procedures | Image-level | 23M (7,877 clips) | MSN | [Link](https://arxiv.org/pdf/2308.12394) | [Code](https://github.com/RoyHirsch/endossl) |
  | General surgery vision transformer: A video pre-trained foundation model for general surgery | Endoscopic Procedures | Image-level | 2.4M (3000+ clips) | GSViT | [Link](https://arxiv.org/pdf/2403.05949) | [Code](https://github.com/SamuelSchmidgall/GSViT)|
  | Scaling up self-supervised learning for improved surgical foundation models | Endoscopic Procedures | Image-level | 4.7M | DINO | [Link](https://arxiv.org/pdf/2501.09436#page=8.75) | [Code](https://github.com/TimJaspers0801/SurgeNet) |
+  | Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings | Endoscopic Procedures | Image-level | 3.0M | DINO | [Link](https://arxiv.org/pdf/2503.19740) | [Code](https://arxiv.org/pdf/2503.19740) |
 
 
 ### Vision-Language Pretraining
