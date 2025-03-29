@@ -192,14 +192,14 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition | Video-level | - | ![image](https://github.com/user-attachments/assets/f4de7ed4-f46a-4525-bda7-80917586785f) | [Link](https://arxiv.org/pdf/2405.10075) | [Code](https://github.com/CAMMA-public/SurgVLP) |
 | Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation | Video-level | - | ![image](https://github.com/user-attachments/assets/6f197dcf-c2e9-4b9a-a0c0-ae9abe584f77) | [Link](https://arxiv.org/pdf/2410.00263) | [Code](https://github.com/CAMMA-public/SurgVLP) |
 | OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | Video-level | 44,290 Clips / 960M Images / 375K Pairs | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) |
-| Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding | Video-level | 149,939 Clips / 2,247,750 Words | ![image](https://github.com/user-attachments/assets/84df0f0e-4dda-4dc5-8f22-f08717e7fbfc) | [Link](https://arxiv.org/pdf/2503.11392) |  |
+| Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding | | Video-level | 149,939 Clips / 2,247,750 Words | ![image](https://github.com/user-attachments/assets/84df0f0e-4dda-4dc5-8f22-f08717e7fbfc) | [Link](https://arxiv.org/pdf/2503.11392) |  |
 
 
 ### LLM-based VLM
 | Paper | Type | Level| Number| Image | Link | Code |
 | :-------- | :---- | :---- | :---- | :-------- | :-------- | :-------- |
-| LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | | Vision-Language |
-| Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | | Vision-Language |
+| LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery |Image-level| -|![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | |
+| Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | Image-level| -|![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | |
 | EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery |  Endoscopic Surgery | Image-level | 41K images / 396K instruction-following annotation | <img width="728" alt="image" src="https://github.com/user-attachments/assets/6ed376d9-6027-4896-873d-a5dc64b0f5b9" /> |[Link](https://arxiv.org/pdf/2501.11347)| [Code](https://github.com/gkw0010/EndoChat)|
 | SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery |  Endoscopic Surgery | Image-level |- | <img width="724" alt="image" src="https://github.com/user-attachments/assets/706678c5-1a3a-4e90-9356-7e379e0203cc" />  |[Link](https://arxiv.org/pdf/2503.09474)| |
 
