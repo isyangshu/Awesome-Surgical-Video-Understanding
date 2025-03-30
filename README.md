@@ -16,13 +16,13 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Scene Understanding](#surgical-scene-understanding)
   - [Surgical Phase Recognition](#surgical-phase-recognition)
   - [Surgical Triplet Recognition](#surgical-triplet-recognition)
-  - [Surgical Tool Detection](#surgical-tool-detection)
+  - [Surgical Tool Detection(Tracking)](#surgical-tool-detection(tracking))
   - [Segmentation](#segmentation)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical-vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
-  - [Surgical Instrument movements](#surgical-instrument-movements)
+  - [Surgical Instrument Movements](#surgical-instrument-movements)
   - [Surgical Workflow Anticipation](#surgical-workflow-anticipation)
 - [Pretraining](#pretraining)
   - [Vision Pretraining](#vision-pretraining)
@@ -66,8 +66,9 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Endoscapes | [Paper](https://arxiv.org/pdf/2312.12429)| [Link](https://github.com/CAMMA-public/Endoscapes) |Cholecystectomy Surgery | Segmentation/Detection/CVS| Image-level |
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
-| TEMSET-24K | [Paper](https://arxiv.org/pdf/2502.06708)| [Link](https://zenodo.org/records/14016844) | Trans-anal Endo Microsurgery | Surgical Action/Task/Phase Reconstruction |
-| EPS15 | [Paper](https://arxiv.org/pdf/2409.17025)| [Link](https://rdr.ucl.ac.uk/articles/dataset/Endoscopic_Pituitary_Surgery_on_a_High-fidelity_Bench-top_Phantom/26511049) | Endoscopic Pituitary Surgery | Instrument Segmentation/Skill Assessment |
+| TEMSET-24K | [Paper](https://arxiv.org/pdf/2502.06708)| [Link](https://zenodo.org/records/14016844) | Trans-anal Endo Microsurgery | Surgical Action/Task/Phase Reconstruction |Video-level|
+| EPS15 | [Paper](https://arxiv.org/pdf/2409.17025)| [Link](https://rdr.ucl.ac.uk/articles/dataset/Endoscopic_Pituitary_Surgery_on_a_High-fidelity_Bench-top_Phantom/26511049) | Endoscopic Pituitary Surgery | Instrument Segmentation/Skill Assessment | Video-level |
+| CholecTrack20 | [Paper](https://arxiv.org/pdf/2312.07352)| [Link](https://github.com/camma-public/cholectrack20) | Laparoscopic Cholecystectomy Surgery | Instrument Tracking/Phase Recognition | Video-level |
 
 #### Private Dataset
 | Dataset| Paper | Procedure | Task | Type |
@@ -140,7 +141,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models | Endoscopic Surgery | <img width="863" alt="image" src="https://github.com/user-attachments/assets/edc6d5b9-114d-4a88-ad83-c912d34e5139" />  | [Link](https://arxiv.org/pdf/2503.19670) | | Vision- Language |
 
 
-### Surgical Tool Detection
+### Surgical Tool Detection(Tracking)
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/1519bb1a-4eb3-4246-960e-6d74c66e67bf) | [Link](https://arxiv.org/pdf/2406.03095) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
