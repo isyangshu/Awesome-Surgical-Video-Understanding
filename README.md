@@ -261,4 +261,5 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ## Survey
 | Paper | Journal | Link |
 | :-------- | :---- | :---- |
+|Deep-Learning-Assisted Analysis of Cataract Surgery Videos| | [Link](https://arxiv.org/pdf/2312.05900)|
 |Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review| | [Link](https://arxiv.org/pdf/2502.14886)|
