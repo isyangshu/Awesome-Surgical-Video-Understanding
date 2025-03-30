@@ -67,6 +67,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
 | TEMSET-24K | [Paper](https://arxiv.org/pdf/2502.06708)| [Link](https://zenodo.org/records/14016844) | Trans-anal Endo Microsurgery | Surgical Action/Task/Phase Reconstruction |
+| EPS15 | [Paper](https://arxiv.org/pdf/2409.17025)| [Link](https://rdr.ucl.ac.uk/articles/dataset/Endoscopic_Pituitary_Surgery_on_a_High-fidelity_Bench-top_Phantom/26511049) | Endoscopic Pituitary Surgery | Instrument Segmentation/Skill Assessment |
 
 #### Private Dataset
 | Dataset| Paper | Procedure | Task | Type |
