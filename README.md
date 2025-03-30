@@ -225,6 +225,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### LLM-based VLM
 | Paper | Type | Level| Number| Image | Link | Code |
 | :-------- | :---- | :---- | :---- | :-------- | :-------- | :-------- |
+| GP-VLS: A general-purpose vision language model for surgery | Endoscopic Surgery |Image-level| -|<img width="942" alt="image" src="https://github.com/user-attachments/assets/8dd7e06a-7986-4696-bce8-c0c1cb13d9ef" /> | [Link](https://arxiv.org/pdf/2407.19305) | [Code](https://gpvls-surgery-vlm.github.io/)|
 | LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning | Endoscopic Surgery |Image-level| -|![image](https://github.com/user-attachments/assets/6cce549b-8e2f-428f-9540-5f515fa12a9a) | [Link](https://arxiv.org/pdf/2408.07981v1) | |
 | Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | Image-level| -|![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | |
 | EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery |  Endoscopic Surgery | Image-level | 41K images / 396K instruction-following annotation | <img width="728" alt="image" src="https://github.com/user-attachments/assets/6ed376d9-6027-4896-873d-a5dc64b0f5b9" /> |[Link](https://arxiv.org/pdf/2501.11347)| [Code](https://github.com/gkw0010/EndoChat)|
