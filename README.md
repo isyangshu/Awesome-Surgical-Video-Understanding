@@ -10,6 +10,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Endoscopic Surgery](#endoscopic-surgery)
     - [Public Dataset](#public-dataset)
     - [Private Dataset](#private-dataset)
+  - [Ophthalmic Surgery](#ophthalmic-surgery)
   - [Egocentric Open Surgery](#egocentric-open-surgery)
   - [Ophthalmic Surgery](#ophthalmic-surgery)
 - [Specific Task](#specific-task)
@@ -81,7 +82,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | RAMIE | [Paper](https://arxiv.org/pdf/2412.04039)| Esophagectomy | Surgical Phase Recognition | Video-level |
 | UroSlice | [Paper](https://arxiv.org/pdf/2405.02571)| Nephrectomy Surgery  | Surgical Phase Recognition | Video-level |
 
-
+### Ophthalmic Surgery
+| Dataset| Paper | Link | Task |
+| :-------- | :---- | :-------- | :-------- |
+| Cataract-1K | [Paper](https://arxiv.org/pdf/2312.06295)| [Link](https://github.com/Negin-Ghamsarian/Cataract-1K) | Phase Recognition/Segmentation/Irregularity detection |
 
 ### Egocentric Open Surgery
 | Dataset| Paper | Link | Type | Task |
