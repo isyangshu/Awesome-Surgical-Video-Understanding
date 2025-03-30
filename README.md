@@ -169,6 +169,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer (**MICCAI-22**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/6c6fe2c8-bfb1-49a5-8c2a-6d0367053d39) | [Link](https://arxiv.org/pdf/2206.11053) | [Code](https://github.com/lalithjets/Surgical_VQA.git) | Vision-Language |
 | Advancing Surgical VQA with Scene Graph Knowledge (**IPCAI-24**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/dfb6ca09-7316-44a6-b1df-1b721f97d894) | [Link](https://arxiv.org/pdf/2312.10251) | [Code](https://github.com/CAMMA-public/SSG-VQA) | Vision-Language |
+| PitVQA: Image-grounded Text Embedding LLM for Visual Question Answering in Pituitary Surgery | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9a3097b1-1d2e-43c4-983a-2c62627bcaf3) | [Link](https://arxiv.org/pdf/2405.13949) | [Code](https://github.com/mobarakol/PitVQA) | Vision-Language |
 | PitVQA++: Vector Matrix-Low-Rank Adaptation for Open-Ended Visual Question Answering in Pituitary Surgery | Endoscopic Surgery | <img width="1074" alt="image" src="https://github.com/user-attachments/assets/2d820071-6429-464b-ab2f-d70b09a6823c" />  | [Link](https://arxiv.org/pdf/2502.14149) | [Code](https://github.com/HRL-Mike/PitVQA-Plus) | Vision-Language |
 
 ### Surgical Type Recognition
