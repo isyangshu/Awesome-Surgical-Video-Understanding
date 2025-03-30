@@ -76,6 +76,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Laparo23.3M | [Paper](https://arxiv.org/pdf/2308.12394)| Laparoscopic Surgery | - | Video-level |
 |ESD385| [Paper](https://arxiv.org/pdf/2409.12108v1)| Endoscopic Submucosal Dissection | Surgical Phase Recognition | Video-level|
 | ACL27 | [Paper](https://arxiv.org/pdf/2502.07431)| Arthroscopic Surgery | Surgical Phase Recognition | Video-level |
+| RAMIE | [Paper](https://arxiv.org/pdf/2412.04039)| Esophagectomy | Surgical Phase Recognition | Video-level |
 
 
 ### Egocentric Open Surgery
