@@ -23,6 +23,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical VQA](#surgical-vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
   - [Surgical Instrument movements](#surgical-instrument-movements)
+  - [Surgical Workflow Anticipation](#surgical-workflow-anticipation)
 - [Pretraining](#pretraining)
   - [Vision Pretraining](#vision-pretraining)
   - [Vision-language Pretraining](#vision-language-pretraining)
@@ -169,6 +170,12 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Anatomy Might Be All You Need: Forecasting What to Do During Surgery | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://arxiv.org/pdf/2501.18011) | | Vision |
+
+### Surgical Instrument Movements
+| Paper | Image | Link | Code |
+| :-------- | :---- | :-------- | :-------- |
+| SWAG: Long-term Surgical Workflow Prediction with Generative-based Anticipation | <img width="779" alt="image" src="https://github.com/user-attachments/assets/36b4cddb-73dc-4c56-b4ce-b65a8e7f4e8e" /> | [Link](https://arxiv.org/pdf/2412.18849) | [Code](https://maxboels.github.io/swag)|
+| Adaptive Graph Learning from Spatial Information for Surgical Workflow Anticipation | <img width="514" alt="image" src="https://github.com/user-attachments/assets/9a518075-8719-4dbe-9a04-066f6d52c859" />  | [Link](https://arxiv.org/pdf/2412.06454) | [Code](https://github.com/XiatianZhang/AdaAnticipation)|
 
 ## Pretraining
 ### Vision Pretraining
