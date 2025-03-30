@@ -143,6 +143,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | Image Compositing for Segmentation of Surgical Tools without Manual Annotations (**TMI-21**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/c40945f5-fd05-4295-8843-12d914394df0) | [Link](https://arxiv.org/pdf/2102.09528) | [Code](https://github.com/luiscarlosgph/semi-synthetic) | Vision |
+| SURGIVID: Annotation-Efficient Surgical Video Object Discovery | Ophthalmology Surgery | <img width="756" alt="image" src="https://github.com/user-attachments/assets/a5a5dbdc-96a9-4925-acab-a553a86c2309" /> | [Link](https://arxiv.org/pdf/2409.07801) |  | Vision |
+
 
 ### Surgical Scene Reconstruction
 | Paper | Surgery | Image | Link | Code | Type |
