@@ -22,6 +22,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Video Generation](#surgical-video-generation)
   - [Surgical VQA](#surgical-vqa)
   - [Surgical Type Recognition](#surgical-type-recognition)
+  - [Surgical Instrument movements](#surgical-instrument-movements)
 - [Pretraining](#pretraining)
   - [Vision Pretraining](#vision-pretraining)
   - [Vision-language Pretraining](#vision-language-pretraining)
@@ -162,7 +163,12 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Surgical Type Recognition
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
-| Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
+| Future-State Predicting LSTM for Early Surgery Type Recognition (**TMI-20**) | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/86655127-183f-43a4-8ff2-794c1bf2dd03) | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772203) | | Vision |
+
+### Surgical Instrument Movements
+| Paper | Surgery | Image | Link | Code | Type |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| Anatomy Might Be All You Need: Forecasting What to Do During Surgery | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/b9fe3c19-7d63-4553-96c5-b3142afe1484)  | [Link](https://arxiv.org/pdf/2501.18011) | | Vision |
 
 ## Pretraining
 ### Vision Pretraining
