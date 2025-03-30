@@ -145,6 +145,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/1519bb1a-4eb3-4246-960e-6d74c66e67bf) | [Link](https://arxiv.org/pdf/2406.03095) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
+| CholecTrack20: A Multi-Perspective Tracking Dataset for Surgical Tools (**CVPR-25**) | Endoscopic Surgery | <img width="502" alt="image" src="https://github.com/user-attachments/assets/c3b4dcc1-3c5f-4a15-bdcd-d40b06539d11" /> | [Link](https://arxiv.org/pdf/2312.07352) | [Code](https://github.com/camma-public/cholectrack20) | Vision |
 
 ### Segmentation
 | Paper | Surgery | Image | Link | Code | Type |
