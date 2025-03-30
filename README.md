@@ -16,7 +16,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
   - [Surgical Scene Understanding](#surgical-scene-understanding)
   - [Surgical Phase Recognition](#surgical-phase-recognition)
   - [Surgical Triplet Recognition](#surgical-triplet-recognition)
-  - [Surgical Tool Detection/Tracking](#surgical-tool-detection/tracking)
+  - [Surgical Tool Detection Tracking](#surgical-tool-detection-tracking)
   - [Segmentation](#segmentation)
   - [Surgical Scene Reconstruction](#surgical-scene-reconstruction)
   - [Surgical Video Generation](#surgical-video-generation)
@@ -141,7 +141,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models | Endoscopic Surgery | <img width="863" alt="image" src="https://github.com/user-attachments/assets/edc6d5b9-114d-4a88-ad83-c912d34e5139" />  | [Link](https://arxiv.org/pdf/2503.19670) | | Vision- Language |
 
 
-### Surgical Tool Detection/Tracking
+### Surgical Tool Detection Tracking
 | Paper | Surgery | Image | Link | Code | Type |
 | :-------- | :---- | :---- | :-------- | :-------- | :-------- |
 | EgoSurgery-Tool: A Dataset of Surgical Tool and Hand Detection from Egocentric Open Surgery Videos | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/1519bb1a-4eb3-4246-960e-6d74c66e67bf) | [Link](https://arxiv.org/pdf/2406.03095) | [Code](https://github.com/Fujiry0/EgoSurgery) | Vision |
