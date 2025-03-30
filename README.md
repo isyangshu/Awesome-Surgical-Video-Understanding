@@ -215,10 +215,10 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Learning multi-modal representations by watching hundreds of surgical video lectures | | Video-level | - | ![image](https://github.com/user-attachments/assets/cf6f1351-c50f-4dba-a963-e51f600c9c41) | [Link](https://arxiv.org/pdf/2307.15220) | [Code](https://github.com/CAMMA-public/SurgVLP) |
 | HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition | | Video-level | - | ![image](https://github.com/user-attachments/assets/f4de7ed4-f46a-4525-bda7-80917586785f) | [Link](https://arxiv.org/pdf/2405.10075) | [Code](https://github.com/CAMMA-public/SurgVLP) |
 | Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation | |Video-level | - | ![image](https://github.com/user-attachments/assets/6f197dcf-c2e9-4b9a-a0c0-ae9abe584f77) | [Link](https://arxiv.org/pdf/2410.00263) | [Code](https://github.com/CAMMA-public/SurgVLP) |
+| VidLPRO: A Video-Language Pre-training Framework for Robotic and Laparoscopic Surgery | |Video-level | - | <img width="733" alt="image" src="https://github.com/user-attachments/assets/19ec0bd6-9eac-4f4d-8828-2da9a1338897" /> | [Link](https://arxiv.org/pdf/2409.04732) | |
 | OphCLIP: Hierarchical Retrieval-Augmented Learning for Ophthalmic Surgical Video-Language Pretraining | Ophthalmic Surgery | Video-level | 44,290 Clips / 960M Images / 375K Pairs | ![image](https://github.com/user-attachments/assets/bb5a9757-607b-478b-92a2-2594fb10139a)  | [Link](https://arxiv.org/pdf/2411.15421) | [Code](https://github.com/minghu0830/OphCLIP) |
 | Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding | | Video-level | 149,939 Clips / 2,247,750 Words | ![image](https://github.com/user-attachments/assets/84df0f0e-4dda-4dc5-8f22-f08717e7fbfc) | [Link](https://arxiv.org/pdf/2503.11392) |  |
-| Text-driven Adaptation of Foundation Models for Few-shot Surgical Workflow Analysis | | Image-level | - | <img width="983" alt="image" src="https://github.com/user-attachments/assets/96765137-adcd-4673-93be-681cb7f22c78" />
- | [Link](https://arxiv.org/pdf/2501.09555) |  [Code](https://github.com/CAMMA-public/Surg-FTDA)|
+| Text-driven Adaptation of Foundation Models for Few-shot Surgical Workflow Analysis | | Image-level | - | <img width="983" alt="image" src="https://github.com/user-attachments/assets/96765137-adcd-4673-93be-681cb7f22c78" /> | [Link](https://arxiv.org/pdf/2501.09555) |  [Code](https://github.com/CAMMA-public/Surg-FTDA)|
 
 
 ### LLM-based VLM
