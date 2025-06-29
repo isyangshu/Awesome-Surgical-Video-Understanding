@@ -66,6 +66,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EndoVis-18-VQLA| [Paper](https://arxiv.org/pdf/2305.11692)| [Link](https://github.com/longbai1006/Surgical-VQLA) |Robotic Nephrectomy Surgery | Visual Question Answering| Image-level |
 | Cholec80-VQA| [Paper](https://arxiv.org/pdf/2206.11053)| [Link](https://github.com/lalithjets/Surgical_VQA) |Cholecystectomy Surgery | Visual Question Answering| Image-level |
 | PitVQA| [Paper](https://arxiv.org/pdf/2405.13949)| [Link](https://rdr.ucl.ac.uk/articles/dataset/PitVQA_A_Dataset_of_Visual_Question_Answering_in_Pituitary_Surgery/27004666) | Pituitary Surgery | Visual Question Answering| Image-level |
+| PSI-AVA-VQA| [Paper](https://arxiv.org/pdf/2304.09974)| [Link](https://github.com/lalithjets/SurgicalGPT) | Prostatectomy Surgery | Visual Question Answering| Image-level |
 | Endoscapes | [Paper](https://arxiv.org/pdf/2312.12429)| [Link](https://github.com/CAMMA-public/Endoscapes) |Cholecystectomy Surgery | Segmentation/Detection/CVS| Image-level |
 | StereoMIS | [Paper](https://arxiv.org/pdf/2304.08023)| [Link](https://zenodo.org/records/7727692) | DaVinci Robotic Surgery| Surgical Scene Reconstruction |
 | EndoNeRF | [Paper](https://arxiv.org/pdf/2206.15255)| [Link](https://github.com/med-air/EndoNeRF?tab=readme-ov-file) | DaVinci robotic prostatectomy | Surgical Scene Reconstruction |
