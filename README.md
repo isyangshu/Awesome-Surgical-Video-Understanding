@@ -246,6 +246,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | Image-level| -|![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | |
 | EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery |  Endoscopic Surgery | Image-level | 41K images / 396K instruction-following annotation | <img width="728" alt="image" src="https://github.com/user-attachments/assets/6ed376d9-6027-4896-873d-a5dc64b0f5b9" /> |[Link](https://arxiv.org/pdf/2501.11347)| [Code](https://github.com/gkw0010/EndoChat)|
 | SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery |  Endoscopic Surgery | Image-level |- | <img width="724" alt="image" src="https://github.com/user-attachments/assets/706678c5-1a3a-4e90-9356-7e379e0203cc" />  |[Link](https://arxiv.org/pdf/2503.09474)| |
+| SurgVLM: A Large Vision-Language Model and Systematic Evaluation Benchmark for Surgical Intelligence |  Multiple Surgery | Image-level |- | ![image](https://github.com/user-attachments/assets/7678163c-5854-46f9-af4d-37442757b75f) |[Link](https://arxiv.org/pdf/2506.02555)| [Code](https://jinlab-imvr.github.io/SurgVLM) |
 
 ### Others
 | Paper | Type | Image | Link | Code |
