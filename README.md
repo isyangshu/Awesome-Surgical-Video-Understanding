@@ -75,6 +75,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | CholecTrack20 | [Paper](https://arxiv.org/pdf/2312.07352)| [Link](https://github.com/camma-public/cholectrack20) | Laparoscopic Cholecystectomy Surgery | Instrument Tracking/Phase Recognition | Video-level |
 | SurgVLM-DB | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Multimodal Training | Image-level |
 | CoPESD | [Paper](https://arxiv.org/pdf/2410.07540)| [Link](https://github.com/gkw0010/CoPESD) | Endoscopic Submucosal Dissection | Multimodal Training | Image-level |
+| Surg-396k | [Paper](https://arxiv.org/pdf/2501.11347)| [Link](https://github.com/gkw0010/endochat) | Multiple Surgery | Multimodal Training | Image-level |
 | SurgVLM-Bench | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Evaluation benchmark for surgical VLMs | Image-level |
 
 #### Private Dataset
