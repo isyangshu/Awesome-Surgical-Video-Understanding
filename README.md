@@ -73,6 +73,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | TEMSET-24K | [Paper](https://arxiv.org/pdf/2502.06708)| [Link](https://zenodo.org/records/14016844) | Trans-anal Endo Microsurgery | Surgical Action/Task/Phase Reconstruction |Video-level|
 | EPS15 | [Paper](https://arxiv.org/pdf/2409.17025)| [Link](https://rdr.ucl.ac.uk/articles/dataset/Endoscopic_Pituitary_Surgery_on_a_High-fidelity_Bench-top_Phantom/26511049) | Endoscopic Pituitary Surgery | Instrument Segmentation/Skill Assessment | Video-level |
 | CholecTrack20 | [Paper](https://arxiv.org/pdf/2312.07352)| [Link](https://github.com/camma-public/cholectrack20) | Laparoscopic Cholecystectomy Surgery | Instrument Tracking/Phase Recognition | Video-level |
+| SurgVLM-DB | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Multimodal Training | Image-level |
+| SurgVLM-Bench | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Evaluation benchmark for surgical VLMs | Image-level |
 
 #### Private Dataset
 | Dataset| Paper | Procedure | Task | Type |
