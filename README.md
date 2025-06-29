@@ -74,6 +74,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | EPS15 | [Paper](https://arxiv.org/pdf/2409.17025)| [Link](https://rdr.ucl.ac.uk/articles/dataset/Endoscopic_Pituitary_Surgery_on_a_High-fidelity_Bench-top_Phantom/26511049) | Endoscopic Pituitary Surgery | Instrument Segmentation/Skill Assessment | Video-level |
 | CholecTrack20 | [Paper](https://arxiv.org/pdf/2312.07352)| [Link](https://github.com/camma-public/cholectrack20) | Laparoscopic Cholecystectomy Surgery | Instrument Tracking/Phase Recognition | Video-level |
 | SurgVLM-DB | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Multimodal Training | Image-level |
+| CoPESD | [Paper](https://arxiv.org/pdf/2410.07540)| [Link](https://github.com/gkw0010/CoPESD) | Endoscopic Submucosal Dissection | Multimodal Training | Image-level |
 | SurgVLM-Bench | [Paper](https://arxiv.org/pdf/2506.02555)| [Link](https://github.com/jinlab-imvr/SurgVLM) | Multiple Surgery | Evaluation benchmark for surgical VLMs | Image-level |
 
 #### Private Dataset
@@ -252,6 +253,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models | Endoscopic Surgery | Image-level| -|![image](https://github.com/user-attachments/assets/d934a2c6-7e8a-48f5-bc97-e251941eb543) | [Link](https://arxiv.org/pdf/2410.09750) | |
 | EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery |  Endoscopic Surgery | Image-level | 41K images / 396K instruction-following annotation | <img width="728" alt="image" src="https://github.com/user-attachments/assets/6ed376d9-6027-4896-873d-a5dc64b0f5b9" /> |[Link](https://arxiv.org/pdf/2501.11347)| [Code](https://github.com/gkw0010/EndoChat)|
 | SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery |  Endoscopic Surgery | Image-level |- | <img width="724" alt="image" src="https://github.com/user-attachments/assets/706678c5-1a3a-4e90-9356-7e379e0203cc" />  |[Link](https://arxiv.org/pdf/2503.09474)| |
+| CoPESD: A Multi-Level Surgical Motion Dataset for Training Large Vision-Language Models to Co-Pilot Endoscopic Submucosal Dissection | Endoscopic Surgery | Image-level |- | ![image](https://github.com/user-attachments/assets/782fddc8-7c4f-423a-af5a-457eedbe774c) |[Link](https://arxiv.org/pdf/2410.07540)| [Code](https://github.com/gkw0010/CoPESD)|
 | SurgVLM: A Large Vision-Language Model and Systematic Evaluation Benchmark for Surgical Intelligence |  Multiple Surgery | Image-level |- | ![image](https://github.com/user-attachments/assets/7678163c-5854-46f9-af4d-37442757b75f) |[Link](https://arxiv.org/pdf/2506.02555)| [Code](https://jinlab-imvr.github.io/SurgVLM) |
 | SurgVidLM: Towards Multi-grained Surgical  Video Understanding with Large Language Model |  Multiple Surgery | Video-level |- | <img width="848" alt="image" src="https://github.com/user-attachments/assets/6176df55-a36c-404c-9a55-30ba124520b3" /> | [Link](https://arxiv.org/pdf/2506.17873)||
 
