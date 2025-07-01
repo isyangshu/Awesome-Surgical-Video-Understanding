@@ -144,7 +144,8 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | SurgPLAN++: Universal Surgical Phase Localization Network for Online and Offline Inference | Endoscopic Surgery | <img width="1298" alt="image" src="https://github.com/user-attachments/assets/bcd1d01a-1e5d-42cc-8ea7-256ec0ac7e79" /> | [Link](https://arxiv.org/pdf/2409.12467) | [Code](https://github.com/franciszchen/SurgPLAN-Plus) | Vision |
 | SWAG: Long-term Surgical Workflow Prediction with Generative-based Anticipation | | <img width="838" alt="image" src="https://github.com/user-attachments/assets/cd52bc9c-fd5c-4831-acba-ee3298f2359a" /> | [Link](https://arxiv.org/pdf/2412.18849) | [Code](https://maxboels.github.io/swag) | Vision |
 | Benchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy | | <img width="1062" alt="image" src="https://github.com/user-attachments/assets/53efa181-93c2-49af-b89e-61f6f6b278dc" /> | [Link](https://arxiv.org/pdf/2412.04039) | | Vision |
-| MoSFormer: Augmenting Temporal Context with Memory of Surgery for Surgical Phase Recognition | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9ccb5828-3805-4f9d-ad7f-a94d6b205dea)| [Link](https://arxiv.org/pdf/2503.00695) | | Vision |
+| MoSFormer: Augmenting Temporal Context with Memory of Surgery for Surgical Phase Recognition | Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/9ccb5828-3805-4f9d-ad7f-a94d6b205dea)| [Link](https://arxiv.org/pdf/2503.00695) | | Vision | 
+| Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement | Endoscopic Surgery | <img width="846" alt="image" src="https://github.com/user-attachments/assets/b94a315b-fc42-4868-8467-225403165fd9" /> | [Link](https://arxiv.org/pdf/2506.20254) | | Vision |
 
 
 ### Surgical Triplet Recognition
