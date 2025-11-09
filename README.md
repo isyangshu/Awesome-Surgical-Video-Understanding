@@ -274,6 +274,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Human visual explanations mitigate bias in AI-based assessment of surgeon skills (Dani Kiyasseh et al.) | npj Digital Medicine 2023 | ![image](https://github.com/user-attachments/assets/fc872ded-3e20-47d8-b01e-cec80f232ff4) | [Link](https://www.nature.com/articles/s41746-023-00766-2) | [Code](https://github.com/danikiyasseh/TWIX)|
 | Intelligent surgical workflow recognition for endoscopic submucosal dissection with realtime animal study (Qi Dou et al.) | Nature Communcation 2023 | <img width="1179" height="535" alt="image" src="https://github.com/user-attachments/assets/2003361c-6dc9-4b66-be7e-97e1f4cfc31c" /> | [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10590425/pdf/41467_2023_Article_42451.pdf) | [Code](https://github.com/med-air/AI-Endo)|
 | Analyzing Surgical Technique in Diverse Open Surgical Videos With Multitask Machine Learning | JAMA Surgery 2024 |  | [Link](https://jamanetwork.com/journals/jamasurgery/fullarticle/2812760) | |
+| Current validation practice undermines surgical AI development | Nature BME (under review) | <img width="874" height="793" alt="image" src="https://github.com/user-attachments/assets/fb264978-0082-4daa-8dbd-052ea487f2b6" /> | [Link](https://arxiv.org/pdf/2511.03769) | |
 
 ## Survey
 | Paper | Journal | Link |
