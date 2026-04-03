@@ -234,8 +234,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 | Scaling up self-supervised learning for improved surgical foundation models (MIA-2025) | Image-level | 4.7M | DINO | <img width="2288" height="1238" alt="image" src="https://github.com/user-attachments/assets/270b9b1b-3121-4fdf-9e79-b7485cb5ca31" /> | [Link](https://arxiv.org/pdf/2501.09436#page=8.75) | [Code](https://github.com/TimJaspers0801/SurgeNet) |
 | Large-scale self-supervised video foundation model for intelligent surgery (npj DM-2026) | Video-level | 3.6M | MAE |<img width="1858" height="1606" alt="image" src="https://github.com/user-attachments/assets/3b8aeeed-14af-422f-911c-62c7d9a1d6eb" /> | [Link](https://www.nature.com/articles/s41746-026-02403-0) | [Code](https://github.com/isyangshu/SurgVISTA) |
 | LEMON: A Large Endoscopic MONocular Dataset and Foundation Model for Perception in Surgical Settings (CVPR-2026) | Image-level | 3.0M | DINO | <img width="1966" height="1102" alt="image" src="https://github.com/user-attachments/assets/b56d1e27-83f0-4d93-a628-81ac03dd8144" /> |[Link](https://arxiv.org/pdf/2503.19740) | [Code](https://github.com/visurg-ai/LEMON) |
-| Scaling Video Pretraining for Surgical Foundation Models | Video-level | 214.5M | MAE/JEPA |<img width="1638" height="880" alt="image" src="https://github.com/user-attachments/assets/4760bb67-6c45-4862-ae8c-9b890e96a2f6" />
-| [Link](https://arxiv.org/pdf/2603.29966) | - |
+| Scaling Video Pretraining for Surgical Foundation Models | Video-level | 214.5M | MAE/JEPA |<img width="1638" height="880" alt="image" src="https://github.com/user-attachments/assets/4760bb67-6c45-4862-ae8c-9b890e96a2f6" /> | [Link](https://arxiv.org/pdf/2603.29966) | - |
 
 
 ### Vision-Language Pretraining
